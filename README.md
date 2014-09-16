@@ -1,6 +1,12 @@
 阿里云MQS nodejs SDK
 ===================
 
+### install
+
+```
+npm install aliyun_mqs
+```
+
 ### demo
 
 ```js

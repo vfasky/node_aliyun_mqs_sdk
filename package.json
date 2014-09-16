@@ -2,11 +2,18 @@
   "name": "aliyun_mqs",
   "version": "0.0.1",
   "main": "index.js",
+  "description": "a aliyun MQS SDK",
   "repository": {
     "type": "git",
     "url": "git://github.com/vfasky/node_aliyun_mqs_sdk.git",
     "web": "https://github.com/vfasky/node_aliyun_mqs_sdk"
   },
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index"
+  },
+  "keywords": ["aliyun", "MQS"],
+  "author": "vfasky@gmail.com",
   "license": "MIT",
   "dependencies": {
     "lodash": "^2.4.1",
